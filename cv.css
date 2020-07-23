@@ -1,6 +1,7 @@
 
 html{
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 /* --------------------------------------navbar------------------------------ */
 
@@ -224,7 +225,7 @@ h2{
   text-align:center;
   display:inline-block;
   list-style:none;
-  position: relative
+  position: relative;
 }
 
 .skills li:hover{
